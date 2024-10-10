@@ -2,3 +2,5 @@ build/**
 dist/**
 *.spec
 test/**
+.vscode
+__pycache__/**
